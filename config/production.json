@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "kostia jwt secret key.!.",
+    "mongoUri": "mongodb+srv://kostia7alania:kostia22@cluster0-kxl07.mongodb.net/test?retryWrites=true&w=majority"
+}
